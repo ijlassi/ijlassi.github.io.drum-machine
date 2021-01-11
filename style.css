@@ -68,9 +68,10 @@ body {
     div {
          display: block;
   float: none;
-  width:97%;
+  width:99.7%;
     }
     #display {
+        text-align: center;
         font-size: 30px;
         top: 35%;
         left: 65%;
