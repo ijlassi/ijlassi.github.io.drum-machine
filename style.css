@@ -64,7 +64,7 @@ body {
     top: 6px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1350px) {
     div {
          display: block;
   float: none;
@@ -74,6 +74,5 @@ body {
         font-size: 30px;
         top: 35%;
         left: 65%;
-        display: flex;
     }
 }
